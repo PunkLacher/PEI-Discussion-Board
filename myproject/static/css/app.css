@@ -1,0 +1,8 @@
+
+
+/*this css file  chnages the top nav text to whatever font is referenecd in the base html document from Googles font api */
+.navbar-brand {
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Newsreader', serif;
+    font-family: 'Secular One', sans-serif;
+}   

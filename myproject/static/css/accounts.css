@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/concrete_wall.png);
+  }
+  
+  .logo {
+    font-family: 'Gill Sans', sans-serif;
+  }
+  
+  .logo a {
+    color: rgba(13, 82, 233, 0.9);
+  }
+  
+  .logo a:hover,
+  .logo a:active {
+    text-decoration: none;
+  }
